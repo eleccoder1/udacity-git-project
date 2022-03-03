@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 README file for Udacity GIT Project
 
 This project have been created and written with Python Programming Language.
@@ -12,3 +13,10 @@ Bikeshare data has three city's bike usage information
 =======
 README file for Udacity GIT Project
 >>>>>>> 5b25e85 (README.md added and updated with description)
+||||||| parent of 86cb69c (README.md updated with descriptive message)
+README file for Udacity GIT Project
+=======
+README file for Udacity GIT Project
+
+This project have been created and written with Python Programming Language.
+>>>>>>> 86cb69c (README.md updated with descriptive message)
