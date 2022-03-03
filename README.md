@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 README file for Udacity GIT Project
 
+<<<<<<< HEAD
 This project have been created and written with Python Programming Language.
 
 This project is a part of Programming Data Science with Python Course in Udacity Platform
@@ -20,3 +21,10 @@ README file for Udacity GIT Project
 
 This project have been created and written with Python Programming Language.
 >>>>>>> 86cb69c (README.md updated with descriptive message)
+||||||| parent of baaf8a9 (README.md updated with details)
+This project have been created and written with Python Programming Language.
+=======
+This project have been created and written with Python Programming Language.
+
+This project is a part of Programming Data Science with Python Course in Udacity Platform
+>>>>>>> baaf8a9 (README.md updated with details)
