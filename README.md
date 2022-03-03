@@ -26,5 +26,13 @@ This project have been created and written with Python Programming Language.
 =======
 This project have been created and written with Python Programming Language.
 
+<<<<<<< HEAD
 This project is a part of Programming Data Science with Python Course in Udacity Platform
 >>>>>>> baaf8a9 (README.md updated with details)
+||||||| parent of acec83c (Update info added)
+This project is a part of Programming Data Science with Python Course in Udacity Platform
+=======
+This project is a part of Programming Data Science with Python Course in Udacity Platform
+
+Readme file is updated simultaneously
+>>>>>>> acec83c (Update info added)
