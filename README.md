@@ -7,6 +7,7 @@ This project have been created and written with Python Programming Language.
 
 This project is a part of Programming Data Science with Python Course in Udacity Platform
 
+<<<<<<< HEAD
 Readme file is updated simultaneously
 
 Bikeshare data has three city's bike usage information
@@ -36,3 +37,10 @@ This project is a part of Programming Data Science with Python Course in Udacity
 
 Readme file is updated simultaneously
 >>>>>>> acec83c (Update info added)
+||||||| parent of 822ab1a (Bikeshare info added)
+Readme file is updated simultaneously
+=======
+Readme file is updated simultaneously
+
+Bikeshare data has three city's bike usage information
+>>>>>>> 822ab1a (Bikeshare info added)
